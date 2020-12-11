@@ -10,7 +10,7 @@
 
 <img src="img/exemplo.png" alt="exemplo imagem">
 
-> Esse foi meu primeiro site usando a tecnologia Bootstrap 4. Ainda necessitam alguns ajustes para a finaliação.
+> Esse foi meu primeiro site usando a tecnologia Bootstrap 4. O site foi criado apenas para fim de estudo sobre a tecnologia usada na criação do site(Bootstrap 4).
 
 ### Ajustes e melhorias
 
