@@ -19,6 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Finalizar site
 - [x] Adcionar Readme
 - [x] Finalizar Readme
+- [ ] Adcionar conteúdo para página "Quem são eles"
 
 ## 💻 Pré-requisitos
 
