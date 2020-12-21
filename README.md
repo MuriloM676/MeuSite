@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MuriloM676/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/MuriloM676/README-template?style=for-the-badge)
 
-<img src="img/img/capa.png" alt="exemplo imagem">
+<img src="img/capa.png" alt="exemplo imagem">
 
 > Esse foi meu primeiro site usando a tecnologia Bootstrap 4. O site foi criado apenas para fim de estudo sobre a tecnologia usada na criação do site(Bootstrap 4).
 
